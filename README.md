@@ -41,3 +41,9 @@
 * **RAM** : Minimal 16 GB (32 GB Disarankan)
 * **GPU** : NVIDIA dengan VRAM minimal 6GB
 * **Storage** : ~5GB untuk model AI
+
+# Cara Installasi venv
+* Buat terminal baru lalu ketik **python -m vevn namaenv**
+* Setelah terbuat ketik **./namaenv/Scripts/Activate** untuk masuk ke venv python mu
+* Setelah tampilannya seperti dibawah ini, langsung saja ketik **pip install -r requirements.txt**
+![Setup Env](image-2.png)
