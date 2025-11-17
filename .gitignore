@@ -1,0 +1,9 @@
+rag_env/
+venv/
+__pycache__/
+*.pyc
+chroma_db/
+processed_files.log
+.DS_Store
+source_data/*
+!source_data/.gitkeep
