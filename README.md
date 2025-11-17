@@ -3,7 +3,7 @@
 **Aplikasi Ini Berjalan 100% Local Sehingga Aman untuk Data/Dokumen yang Private**
 
 # **1. Demo Aplikasi RAG**
-![Demo RAG](image-1.png)
+![Demo RAG](/image/image-1.png)
 
 # **2.STRUKTUR Folder Projek Ini**
 ```
@@ -22,7 +22,7 @@
 ```
 
 # **3. Workflow**
-![Workflow RAG Local Ini!](image.png)
+![Workflow RAG Local Ini!](/image/image.png)
 
 # **4.Fitur Utama Yang Digunakan**
 * **Advanced Parsing:** Menggunakan **Docling (IBM)** untuk membaca PDF, mengekstrak tabel ke Markdown, dan melakukan OCR pada gambar secara otomatis.
@@ -46,4 +46,4 @@
 * Buat terminal baru lalu ketik **python -m vevn namaenv**
 * Setelah terbuat ketik **./namaenv/Scripts/Activate** untuk masuk ke venv python mu
 * Setelah tampilannya seperti dibawah ini, langsung saja ketik **pip install -r requirements.txt**
-![Setup Env](image-2.png)
+![Setup Env](/image/image-2.png)
