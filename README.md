@@ -6,6 +6,7 @@
 ![Demo RAG](image-1.png)
 
 # **2.STRUKTUR Folder Projek Ini**
+```
 ├── ingestion/
 │   ├── ingest.py          # Script utama untuk membaca & menyimpan dokumen (Docling)
 │   ├── chunker.py         # Logika pemotongan teks (Chunking)
@@ -18,6 +19,7 @@
 ├── rag_main.py            # Aplikasi Chatbot (Streamlit UI & RAG Pipeline)
 ├── requirements.txt       # Daftar library Python
 └── README.md              # Dokumentasi ini
+```
 
 # **3. Workflow**
 ![Workflow RAG Local Ini!](image.png)
